@@ -155,13 +155,13 @@
 
 // Ejercicio 4 
 
-const fechaLimite = "1997-8-3"
-const fechas = ["1984-18-2", "1998-3-2", "1973-15-7", "2024-21-10", "2001-1-9"]
+// const fechaLimite = "1997-8-3"
+// const fechas = ["1984-18-2", "1998-3-2", "1973-15-7", "2024-21-10", "2001-1-9"]
 
-const fechaLimiteObj = new Date(fechaLimite);
-for (const fecha of fechas) {
-    const fechaActualObj = new Date(fecha);
-    if (fechaActualObj >= fechaLimiteObj) {
-        console.log(fecha);
-    }
-}
+// const fechaLimiteObj = new Date(fechaLimite);
+// for (const fecha of fechas) {
+//     const fechaActualObj = new Date(fecha);
+//     if (fechaActualObj >= fechaLimiteObj) {
+//         console.log(fecha);
+//     }
+// }
